@@ -47,7 +47,7 @@ cd upskillcampus
 3. Run the analysis script:
 
 ```bash
-python analysis.py
+python Prediction-of-Agriculture-Crop-Production-in-India.ipynb
 ```
 
 ## Data
