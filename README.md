@@ -1,5 +1,5 @@
-```
-# Crop Yield and Production Analysis
+
+## Crop Yield and Production Analysis
 
 This repository contains code for analyzing crop yield and production data from the years 2006-2011. The analysis includes visualizations of production, area, and yield for each crop over the specified years, as well as predictions for future production using linear regression models.
 
@@ -24,7 +24,7 @@ To run the code in this repository, you will need to have Python installed, alon
 - scikit-learn
 - pickle
 
-You can install these dependencies using pip:
+## You can install these dependencies using pip:
 
 ```bash
 pip install numpy pandas seaborn matplotlib scikit-learn
@@ -84,4 +84,3 @@ Contributions are welcome! Please open an issue or submit a pull request with an
 ## License
 
 This project is licensed under the MIT License.
-```
