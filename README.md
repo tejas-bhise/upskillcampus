@@ -35,13 +35,13 @@ pip install numpy pandas seaborn matplotlib scikit-learn
 1. Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/tejas-bhise/upskillcampus.git
 ```
 
 2. Navigate to the repository directory:
 
 ```bash
-cd your-repo-name
+cd upskillcampus
 ```
 
 3. Run the analysis script:
